@@ -2,7 +2,7 @@
 
 ### 🌱 Aspiring Developer | 💻 Passionate Learner | 🎯 Goal-Oriented
 
-I'm currently a student working on improving my skills and building meaningful projects. I'm especially interested in [Your Interests – e.g., Web Development, Machine Learning, Open Source].
+I'm currently a student working on improving my skills and building meaningful projects. I'm especially interested in Web Development.
 
 ---
 
