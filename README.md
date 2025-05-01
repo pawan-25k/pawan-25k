@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Pawan Kumar N
+# 👋 Hi, I'm [Your Name]
 
 ### 🌱 Aspiring Developer | 💻 Passionate Learner | 🎯 Goal-Oriented
 
-I'm currently a student working on improving my skills and building meaningful projects. I'm especially interested in Web Development.
+I'm currently a student working on improving my skills and building meaningful projects. I'm especially interested in [Your Interests – e.g., Web Development, Machine Learning, Open Source].
 
 ---
 
@@ -16,8 +16,9 @@ I'm currently a student working on improving my skills and building meaningful p
 
 ---
 
+
 ### 📫 Let's Connect!
-www.linkedin.com/in/pawan-kumar-n-845b00315 !(https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-kumarpawan49995@gmail.com !(https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/pawan-kumar-n-845b00315)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kumarpawan49995@gmail.com)
 
 ---
