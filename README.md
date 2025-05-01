@@ -17,7 +17,7 @@ I'm currently a student working on improving my skills and building meaningful p
 ---
 
 ### 📫 Let's Connect!
-[!www.linkedin.com/in/pawan-kumar-n-845b00315 (https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[!kumarpawan49995@gmail.com (https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+www.linkedin.com/in/pawan-kumar-n-845b00315 !(https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+kumarpawan49995@gmail.com !(https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 ---
