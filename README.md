@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pawan Kumar N
+# 👋 Hi, I'm Pawan Kumar
 
 ### 🌱 Aspiring Developer | 💻 Passionate Learner | 🎯 Goal-Oriented
 
