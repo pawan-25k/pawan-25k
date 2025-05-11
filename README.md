@@ -45,7 +45,3 @@ I'm currently a student working on improving my skills and building meaningful p
 ## GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=pawan-25k&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pawan-25k&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
