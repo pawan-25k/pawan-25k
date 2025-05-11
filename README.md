@@ -31,21 +31,21 @@ I'm currently a student working on improving my skills and building meaningful p
 
 ## Overall Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan-25k&show_icons=true&theme=github_dark)
 
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-25k&layout=compact&theme=github_dark)
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-25k&theme=github-dark)
 
 ## GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=pawan-25k&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pawan-25k&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
