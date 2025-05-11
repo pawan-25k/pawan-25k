@@ -31,7 +31,8 @@ I'm currently a student working on improving my skills and building meaningful p
 
 ## Overall Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&theme=github_dark)
+
 
 ## Most Used Languages
 
