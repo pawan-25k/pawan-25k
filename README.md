@@ -42,6 +42,7 @@ I'm currently a student working on improving my skills and building meaningful p
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-25k&theme=github-dark)
 
+
 ## GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=pawan-25k&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
