@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pawan Kumar
 
-### 🌱 Aspiring Developer | 💻 Passionate Learner | 🎯 Goal-Oriented |🎓 Computer Science Student  | 🚀 Learning by Building
+### 🌱 Aspiring Developer | 💻 Passionate Learner | 🎯 Goal-Oriented |🎓 Computer Science Student  |    🚀 Learning by Building
 
 I'm a student passionate about programming, open-source, and building real-world tech solutions. I’m currently learning full-stack development, working on academic projects, and exploring new technologies every day.
 
