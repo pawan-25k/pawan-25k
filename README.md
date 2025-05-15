@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Pawan Kumar
 
-### 🌱 Aspiring Developer | 💻 Passionate Learner | 🎯 Goal-Oriented
+### 🌱 Aspiring Developer | 💻 Passionate Learner | 🎯 Goal-Oriented |🎓 Computer Science Student  | 🚀 Learning by Building
 
-I'm currently a student working on improving my skills and building meaningful projects. I'm especially interested in Web Development.
+I'm a student passionate about programming, open-source, and building real-world tech solutions. I’m currently learning full-stack development, working on academic projects, and exploring new technologies every day.
+
+🌱 Currently learning: JavaScript, React, Node.js, Python
+
+💻 Projects: Web apps, IoT systems, and AI-based tools
+
+📚 Interested in web development, AI, and cloud computing
+
+🌐 Always open to collaboration and learning
 
 ---
 
