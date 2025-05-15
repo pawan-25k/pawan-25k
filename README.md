@@ -12,7 +12,7 @@ I'm currently a student working on improving my skills and building meaningful p
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
