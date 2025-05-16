@@ -39,12 +39,11 @@ I'm a student passionate about programming, open-source, and building real-world
 
 ## Overall Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan-25k&show_icons=true&theme=github_dark)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan-25k&show_icons=true&theme=default)
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-25k&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
 
 ## GitHub Streak
 
