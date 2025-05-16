@@ -43,7 +43,7 @@ I'm a student passionate about programming, open-source, and building real-world
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-25k&layout=compact&theme=default)
 
 ## GitHub Streak
 
