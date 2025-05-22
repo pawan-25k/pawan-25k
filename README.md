@@ -53,3 +53,10 @@ I'm a student passionate about programming, open-source, and building real-world
 ## GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=pawan-25k&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake.svg" />
+</picture>
