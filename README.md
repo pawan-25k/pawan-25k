@@ -51,7 +51,7 @@ I'm a student passionate about programming, open-source, and building real-world
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-##Snake Game
+## Snake Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake.svg" />
