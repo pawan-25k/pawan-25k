@@ -28,6 +28,10 @@ I'm a student passionate about programming, open-source, and building real-world
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+
 # GitHub Stats and Activity
 
 ## Overall Stats
@@ -43,13 +47,9 @@ I'm a student passionate about programming, open-source, and building real-world
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-25k&theme=github-dark)
 
 
-## GitHub Trophies
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pawan-25k&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 ## Snake Game
 <picture>
