@@ -28,7 +28,7 @@ I'm a student passionate about programming, open-source, and building real-world
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 
