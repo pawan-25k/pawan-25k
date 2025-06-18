@@ -1,5 +1,5 @@
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Pawan Kumar N
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Pawan Kumar N </div><p align="right"> <img src="https://komarev.com/ghpvc/?username=pawan-25k&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views"> <img src="https://img.shields.io/github/followers/pawan-25k?label=FOLLOWERS&style=social" alt="GitHub followers"> </p> 
 
 <div align="center">
   
