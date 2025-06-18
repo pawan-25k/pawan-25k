@@ -43,7 +43,7 @@ I'm a student passionate about programming, open-source, and building real-world
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-25k&layout=compact&theme=radical)](https://github.com/pawan-25k)
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-25k&theme=github-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-25k&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
