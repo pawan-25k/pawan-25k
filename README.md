@@ -1,5 +1,5 @@
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Pawan Kumar N
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Pawan Kumar N
 
 <div align="center">
   
@@ -22,13 +22,16 @@
 
 ## 🌟 Let's Connect!
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pawan-kumar-n/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=0A66C2" alt="LinkedIn" height="30"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
   <a href="mailto:kumarpawan49995@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=D14836" alt="Gmail" height="30"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
   </a>
+  
+</p>
  
 </p>
 <p align="center">
@@ -85,21 +88,27 @@
 # GitHub Stats and Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan-25K&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" alt="pawan-25K stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan-25K&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="pawan-25K top langs" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan-25k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan-25k&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" width="45%"/> 
 </p>
-## GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-25k&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+## 🔥 Contribution Streak
+
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-25k&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pawan-25k&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 ## Snake Game
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake.svg" />
 </picture>
+</div>
