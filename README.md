@@ -1,23 +1,40 @@
-# 👋 Hi, I'm Pawan Kumar
 
-### 🌱 Aspiring Developer | 💻 Passionate Learner | 🎯 Goal-Oriented |🎓 Computer Science Student  |    🚀 Learning by Building
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Pawan Kumar N
 
-I'm a student passionate about programming, open-source, and building real-world tech solutions. I’m currently learning full-stack development, working on academic projects, and exploring new technologies every day.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF7&width=600&lines=Aspiring+Full-Stack+Developer;Passionate+Tech+Learner;Information+Science+Student;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
-🌱 Currently learning: JavaScript, React, Node.js, Python
+</div>
 
-💻 Projects: Web apps, IoT systems, and AI-based tools
+## 🚀 About Me
 
-📚 Interested in web development, AI, and cloud computing
+```diff
+! 🚀 Actively Mastering
+# JavaScript | React | Node.js | Python | Data Structures
 
-🌐 Always open to collaboration and learning
+! 🔨 Building Projects
+# Web Applications | IoT Solutions | AI Prototypes
 
----
+! 📖 Deep Diving Into
+# Full-Stack Development | Machine Learning | Cloud Architecture
+```
 
+## 🌟 Let's Connect!
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-kumar-n/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kumarpawan49995@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pawan-kumar-n/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=0A66C2" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="mailto:kumarpawan49995@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=D14836" alt="Gmail" height="30"/>
+  </a>
+ 
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Let's+collaborate!;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🔧 Languages & Tools
