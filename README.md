@@ -40,8 +40,7 @@ I'm a student passionate about programming, open-source, and building real-world
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-25k&layout=compact&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-25k&layout=compact&theme=radical)](https://github.com/pawan-25k)
 ## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-25k&theme=github-dark)
