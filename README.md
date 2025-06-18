@@ -97,7 +97,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-25k&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=pawan-25K&theme=github-dark)](https://git.io/streak-stats)
 </div>
 
 ## 🏆 GitHub Trophies
