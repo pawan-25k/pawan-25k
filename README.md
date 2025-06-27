@@ -13,17 +13,17 @@
 </div>
 
 ## 🚀 About Me
+## Actively Mastering
+    
+  <p>JavaScript | React | Node.js | Python | Data Structures</p>
 
-```diff
-! 🚀 Actively Mastering
-# JavaScript | React | Node.js | Python | Data Structures
+## Building Projects
 
-! 🔨 Building Projects
-# Web Applications | IoT Solutions | AI Prototypes
+  <p>Web Applications | IoT Solutions | AI Prototype</p>
 
-! 📖 Deep Diving Into
-# Full-Stack Development | Machine Learning | Cloud Architecture
-```
+## Deep Diving Into
+  <p>Full-Stack Development | Machine Learning | Cloud Architecture</p>
+
 
 ## 🌟 Let's Connect!
 
