@@ -18,9 +18,6 @@
 ### 🔥 Actively Mastering  
 **JavaScript** | **React** | **Node.js** | **Python** | **Data Structures**  
 
-### 🛠️ Building Projects  
-**Web Applications** | **IoT Solutions** | **AI Prototypes**  
-
 ### 🧠 Deep Diving Into  
 **Full-Stack Development** | **Machine Learning** | **Cloud Architecture**  
 
