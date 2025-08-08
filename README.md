@@ -2,7 +2,7 @@
   <img src="https://github.com/pawan-25k/pawan-25k/blob/main/banner.gif" alt="Web Developer Banner" width="100%" style="border-radius: 8px">
 </p>
 
----
+
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Pawan </div><p align="right"> <img src="https://komarev.com/ghpvc/?username=pawan-25k&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views"> <img src="https://img.shields.io/github/followers/pawan-25k?label=FOLLOWERS&style=social" alt="GitHub followers"> </p> 
 
