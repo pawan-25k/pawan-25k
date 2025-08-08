@@ -68,16 +68,24 @@
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Let's+collaborate!;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing SVG" />
-</p>
 
----
+</p>
+<div align="center">
+  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kumarpawan49995)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pawan-25k/)
+
+</div>
+
+
 
 
 
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 # GitHub Stats and Activity
 
