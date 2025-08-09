@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pawan-25k/pawan-25k/blob/main/banner.gif" alt="Web Developer Banner" width="100%" style="border-radius: 8px">
+  <img src="https://github.com/pawan-25k/pawan-25k/blob/main/banner.png" alt="Web Developer Banner" width="100%" style="border-radius: 8px">
 </p>
 
 
