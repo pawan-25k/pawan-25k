@@ -21,6 +21,9 @@
 ### 🧠 Deep Diving Into  
 **Full-Stack Development** | **Machine Learning** | **Cloud Architecture**  
 
+### My HackerRank Badges
+![HackerRank Badges](hackerrank-badges.png)
+
 </div>
 
 
