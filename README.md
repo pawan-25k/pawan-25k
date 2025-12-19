@@ -94,7 +94,7 @@
 # GitHub Stats and Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan-25k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan-25k&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan-25k&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" width="45%"/> 
 </p>
 
@@ -103,7 +103,8 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=pawan-25K&theme=github-dark)](https://git.io/streak-stats)
+  
+![](https://nirzak-streak-stats.vercel.app/?user=pawan-25k&theme=dark&hide_border=false)<br/>
 </div>
 
 ## 🏆 GitHub Trophies
