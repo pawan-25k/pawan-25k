@@ -175,12 +175,11 @@
 
 </div>
 
-
-
-
 ## 🏆 GitHub Trophies
+<p align="center">  
+  <img src="https://github-trophies.vercel.app/?username=pawan-25k&margin-h=10&margin-w=10&theme=algolia" alt="trophies" />
+</p>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pawan-25k&theme=radical&no-frame=true&margin-w=10&row=1" /> </div>
 
 ## 📊 GitHub Stats
 
