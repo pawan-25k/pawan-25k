@@ -1,101 +1,169 @@
-<p align="center">
-  <img src="https://github.com/pawan-25k/pawan-25k/blob/main/banner.png" alt="Web Developer Banner" width="100%" style="border-radius: 8px">
-</p>
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Pawan  
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Pawan </div><p align="right"> <img src="https://komarev.com/ghpvc/?username=pawan-25k&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views"> <img src="https://img.shields.io/github/followers/pawan-25k?label=FOLLOWERS&style=social" alt="GitHub followers"> </p> 
+<img align="right" src="https://count.getloli.com/@:pawan-25k?theme=gelbooru&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
+
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF7&width=600&lines=Aspiring+Full-Stack+Developer;Passionate+Tech+Learner;Information+Science+Student;Open-Source+Enthusiast)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF7&width=600&lines=Aspiring+Full-Stack+Developer;Passionate+Problem+Solver;Information+Science+Student;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
+
 
 ## 🚀 About Me
-<div align="center">
-
-### 🔥 Actively Mastering  
-**JavaScript** | **React** | **Node.js** | **Python** | **Data Structures**  
-
-### 🧠 Deep Diving Into  
-**Full-Stack Development** | **Machine Learning** | **Cloud Architecture**  
 
 
-### My HackerRank Badges
-[![HackerRank Badges](hackerrank-badges.png)](https://www.hackerrank.com/kumarpawan49995)
-
-</div>
+<p align="justify">
+  <img src="https://github.com/user-attachments/assets/d6dfadcb-2641-47ce-b0fe-668f9bf78b22" align="right" width="250" style="margin-left:15px; border-radius:12px;" />
 
 
-## 🔧 Languages & Tools
-<div align="center">
-  
- ### Programming Languages
-  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+🎓 Information Science student with a strong interest in **Full-Stack Development** and **Problem Solving**.  
+💡 I enjoy building real-world projects, solving coding challenges, and continuously improving my technical skills.  
+🎯 My goal is to become a **skilled Software / Full-Stack Developer** and contribute to impactful products.
 
-### Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ **Currently Working On:**
+- Mastering **JavaScript, React, Node.js, Python**
+- Strengthening **Data Structures & Algorithms**
+- Building **full-stack and automation projects**
+- Solving problems on **HackerRank & LeetCode**
 
 
-</div>
+
+## 🛠️ Languages and Tools
+
+
+<table align="center">
+  <!-- ROW 1 -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="50" height="50" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
+      <br>Python
+    </td>
+  </tr>
+
+  <!-- ROW 2 -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="50" height="50" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
+      <br>GitHub
+    </td>
+  </tr>
+
+  <!-- ROW 3 -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pug" width="50" height="50" />
+      <br>Pug
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" />
+      <br>Jupyter
+    </td>
+  </tr>
+</table>
+
+
 
 
 
 ## 🌟 Let's Connect!
+<p align="center">
+  
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Let's+collaborate!;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing SVG" />
 
 
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/pawan-kumar-n/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
-  <a href="mailto:kumarpawan49995@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
+  <a href="https://www.facebook.com/profile.php?id=100033441460827" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  
-</p>
- 
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Let's+collaborate!;Open+to+new+opportunities;Always+happy+to+connect" alt="Typing SVG" />
-
-</p>
-<div align="center">
-  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kumarpawan49995)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pawan-25k/)
-
-</div>
-
-
-
-
-
-
-### ✍️ Quote
----
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-# GitHub Stats and Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan-25k&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan-25k&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" width="45%"/> 
+  <a href="https://instagram.com/p_a_w_a_n__k_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/kumarpawan49995" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="mailto:kumarpawan49995@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+         height="30" width="40"
+         style="filter: invert(20%) sepia(100%) saturate(5000%) hue-rotate(0deg);" />
+  </a>
 </p>
 
 
@@ -103,19 +171,36 @@
 
 <div align="center">
 
-  
-![](https://nirzak-streak-stats.vercel.app/?user=pawan-25k&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pawan-25k&theme=dark&hide_border=false)
+
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pawan-25k&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
-## Snake Game
+
+
+## 🏆 GitHub Trophies
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pawan-25k&theme=radical&no-frame=true&margin-w=10&row=1" /> </div>
+
+## 📊 GitHub Stats
+
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=pawan-25k&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-25k&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+
+## 📈Activity-Graph
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan-25k&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
+## 😀 Pac-Man Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pawan-25k/pawan-25k/output/pacman-contribution-graph.svg">
 </picture>
+
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Thank%20You&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
