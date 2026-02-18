@@ -169,10 +169,12 @@
 
 ## 🌟 Let's Connect!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF7&center=true&vCenter=true&width=435&lines=The+Best+way+to+do+it,+is+to+do+it;A+⭐+on+my+repo+is+appreciated;Always+happy+to+connect" alt="Typing SVG" />
-  
-</p>
+
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF7&width=600&lines=The+Best+way+to+do+it,+is+to+do+it;A+⭐+on+my+repo+is+appreciated;Always+happy+to+connect)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pawan-kumar-n/" target="_blank">
